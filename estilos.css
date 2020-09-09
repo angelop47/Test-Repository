@@ -1,0 +1,15 @@
+.international{
+    background-color: brown;
+    height: 300px;
+    width: 90%;
+    margin: auto;
+    margin-top: 10px;
+}
+.international img{
+    width: 300px;
+}
+
+.field{
+    text-align: center;
+    text-align-last: right;  
+}
